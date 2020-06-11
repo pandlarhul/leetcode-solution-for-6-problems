@@ -14,7 +14,7 @@ public class UseSearchIn2DMatrix{
             
     
            
-           FindingIn2DMatrix obj1 = new FindingIn2DMatrix();
+           Solution obj1 = new Solution();
            System.out.println("is Available = "+obj1.searchMatrix(arr,10));
         }
 
